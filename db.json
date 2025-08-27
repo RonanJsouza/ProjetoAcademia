@@ -1,0 +1,158 @@
+{
+  "workouts": [
+    {
+      "id": "1dd5",
+      "name": "Treino 01",
+      "time": "60",
+      "category": {
+        "id": "1",
+        "name": "Cardio"
+      },
+      "description": "Correr até a praia e voltar. ",
+      "dayOfWeek": {
+        "id": "1",
+        "name": "Segunda-feira"
+      }
+    },
+    {
+      "id": "47ab",
+      "name": "Treino 02",
+      "time": "40",
+      "category": {
+        "id": "6",
+        "name": "Treino Livre"
+      },
+      "dayOfWeek": {
+        "id": "2",
+        "name": "Terça-feira"
+      },
+      "description": "Após o curso."
+    },
+    {
+      "id": "58d6",
+      "name": "Treino 03",
+      "time": "60",
+      "category": {
+        "id": "5",
+        "name": "Yoga"
+      },
+      "dayOfWeek": {
+        "id": "3",
+        "name": "Quarta-feira"
+      },
+      "description": "Com Alice."
+    },
+    {
+      "id": "3dee",
+      "name": "Treino 04",
+      "time": "30",
+      "category": {
+        "id": "1",
+        "name": "Cardio"
+      },
+      "dayOfWeek": {
+        "id": "4",
+        "name": "Quinta-feira"
+      },
+      "description": "Até a praia e voltar."
+    },
+    {
+      "id": "8342",
+      "name": "Treino 05",
+      "time": "45",
+      "category": {
+        "id": "4",
+        "name": "HIIT"
+      },
+      "dayOfWeek": {
+        "id": "5",
+        "name": "Sexta-feira"
+      },
+      "description": "Com Pedro."
+    },
+    {
+      "id": "d7fd",
+      "name": "Treino 06",
+      "time": "120",
+      "category": {
+        "id": "2",
+        "name": "Força"
+      },
+      "dayOfWeek": {
+        "id": "6",
+        "name": "Sábado"
+      },
+      "description": "Com Pedro, Rafael e Paulo"
+    },
+    {
+      "id": "c37d",
+      "dayOfWeek": {
+        "id": "7",
+        "name": "Domingo"
+      },
+      "category": {
+        "id": "3",
+        "name": "Flexibilidade"
+      },
+      "time": "20",
+      "name": "Treino 07",
+      "description": "Sozinho, ao amanhecer."
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Cardio"
+    },
+    {
+      "id": "2",
+      "name": "Força"
+    },
+    {
+      "id": "3",
+      "name": "Flexibilidade"
+    },
+    {
+      "id": "4",
+      "name": "HIIT"
+    },
+    {
+      "id": "5",
+      "name": "Yoga"
+    },
+    {
+      "id": "6",
+      "name": "Treino Livre"
+    }
+  ],
+  "daysOfWeek": [
+    {
+      "id": "1",
+      "name": "Segunda-feira"
+    },
+    {
+      "id": "2",
+      "name": "Terça-feira"
+    },
+    {
+      "id": "3",
+      "name": "Quarta-feira"
+    },
+    {
+      "id": "4",
+      "name": "Quinta-feira"
+    },
+    {
+      "id": "5",
+      "name": "Sexta-feira"
+    },
+    {
+      "id": "6",
+      "name": "Sábado"
+    },
+    {
+      "id": "7",
+      "name": "Domingo"
+    }
+  ]
+}

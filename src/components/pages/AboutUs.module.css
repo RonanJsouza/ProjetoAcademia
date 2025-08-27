@@ -1,0 +1,57 @@
+.aboutUs_container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4em;
+    text-align: center;
+  }
+  
+  .aboutUs_heading {
+    font-size: 2.5rem;
+    color: #222;
+    margin-bottom: 20px;
+    background-color: black;
+    color: #9ce0b8;
+    padding: 10px;
+    display: inline-block;
+  }
+  
+  .aboutUs_paragraph {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #444;
+  }
+  
+  .aboutUs_list {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    text-align: left;
+  }
+  
+  .aboutUs_listItem {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .aboutUs_strong {
+    color: #2ecc71;
+  }
+  
+  .aboutUs_em {
+    color: #2ecc71;
+    font-style: italic;
+  }
+  
+  @media (max-width: 768px) {
+    .aboutUs_heading {
+      font-size: 2rem;
+    }
+    .aboutUs_paragraph,
+    .aboutUs_listItem {
+      font-size: 1rem;
+    }
+  }
+  
